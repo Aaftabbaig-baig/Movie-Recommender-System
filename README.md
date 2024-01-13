@@ -8,4 +8,3 @@ Extension
 Have created a text input bar to add your movie whose recommendation you want. Output will give you top 4 matches that are recommended movies.
 
 Results
-Screen Shot 2020-06-06 at 9 36 16 PM Screen Shot 2020-06-06 at 9 36 41 PM
